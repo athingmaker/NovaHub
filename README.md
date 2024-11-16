@@ -18,7 +18,7 @@ The purpose of **NovaHub** is to serve as a simple and clean website that can be
 ## Navigation
 
 - **Main Page**: Includes buttons and fancy text with smooth animations.
-- **Subpages**: Create new sections or pages and link them using the buttons (e.g., **NovaAI**, **Games**, **Ads**).
+- **Subpages**: Create new sections or pages and link them using the buttons (e.g., , **Games**, **Live Chat**, **global  news**).
   
 ## License
 
