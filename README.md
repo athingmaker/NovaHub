@@ -14,8 +14,7 @@ The purpose of **NovaHub** is to serve as a simple and clean website that can be
 
 ## Goal
 
-**NovaHub** is intended to provide a polished, interactive website that can be hosted for free using platforms like **GitHub Pages**. It offers the flexibility to link different elements to suit your personal or project needs.
-
+**NovaHub** is intended to provide a polished, interactive website that's main purpose is to serve peoples interests. currently a work in progress
 ## Navigation
 
 - **Main Page**: Includes buttons and fancy text with smooth animations.
@@ -23,4 +22,4 @@ The purpose of **NovaHub** is to serve as a simple and clean website that can be
   
 ## License
 
-This project is open-source and available under the MIT License. Feel free to use, modify, and deploy **NovaHub** for your own projects.
+This project is open-source and available under the MIT License.
